@@ -8,7 +8,8 @@ For the ten percent duty cycle the values of TB0CCR0 was changed to be 500 and t
 
 ![image](https://user-images.githubusercontent.com/75408516/202005706-505a3874-9247-470a-9670-a8e9a6248683.png)
 
-UML diagram for Q2
+![image](https://user-images.githubusercontent.com/75408516/202005792-ae2a14fa-2909-40a2-adfb-ca00f02c6dcf.png)
+
 UML_LAB4
 
 20 Percent Duty Cycle
