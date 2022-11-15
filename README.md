@@ -10,9 +10,9 @@ For the ten percent duty cycle the values of TB0CCR0 was changed to be 500 and t
 
 ![image](https://user-images.githubusercontent.com/75408516/202005792-ae2a14fa-2909-40a2-adfb-ca00f02c6dcf.png)
 
-UML_LAB4
 
 20 Percent Duty Cycle
 For the 20% duty cycle the same method was applied however instead of using the polling method the interupt method was used. This does not change how the duty cycle is calculated. The values of TB0CCR0 and TB0CCR1 needed to create a value of 0.2 in order to get the 20% duty cycle. So the value of TB0CCR1 was keep at 50 and the value of TB0CCR0 was changed to 250. The reason for this change is becasue the value 0.2 is need so 50/250 produces the value of 0.2 needed for the 20% duty cycle. This duty cycle can be seen within the figure below. Within the figure below it can be seen that the duty cycle is again off by a small amount. This is again due to the wires being used.
 
-scope_13
+![image](https://user-images.githubusercontent.com/75408516/202005987-91049b55-25d0-4dac-bb6f-d863cc9eba10.png)
+
